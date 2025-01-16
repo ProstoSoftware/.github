@@ -18,6 +18,8 @@ We actively welcome your pull requests.
 We use GitHub issues to track public bugs. Please ensure your description is
 clear and has sufficient instructions to be able to reproduce the issue.
 
+If the problem concerns security, please read SECURITY file.
+
 ## License
 
 By contributing to ProstoSoftware Open Source Projects, you agree that your
